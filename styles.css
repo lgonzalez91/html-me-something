@@ -1,3 +1,22 @@
-body{
-    background-color: red;
+html{
+    background-color: #DCDCDC;
+}
+a{
+    text-decoration: none
+}
+article{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: impact;
+}
+h6{
+    margin-top: -22px;
+    text-indent: 300px;
+}
+h2{
+    font-family: Georgia;
 }
