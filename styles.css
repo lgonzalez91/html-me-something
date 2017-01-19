@@ -12,6 +12,7 @@ article{
     padding-bottom: 5px;
     padding-top: 5px;
     font-family: impact;
+    text-align: center;
 }
 h6{
     margin-top: -22px;
@@ -32,7 +33,22 @@ img.track{
     width: 600px;
     height: 462px;
 }
-img.cyclocros{
-    width: ;
-    height: ;
+ul{
+    list-style-type: none;
+}
+
+#mybikes{
+    text-align: left;
+    }
+#footer{
+    font-size: 12px;
+    font-family: Times, Georgia, serif;
+}
+#heading{
+    text-align: center;
+}
+#cross{
+    text-align: center;
+    width: 683px;
+    height: 1024px;
 }
